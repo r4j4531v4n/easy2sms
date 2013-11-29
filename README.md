@@ -1,7 +1,7 @@
 easy2sms
 ========
 
-A simple desktop free sms application written in java that uses Open Source Library http://unirest.io/java.html  and Site2Sms API
+A simple desktop application written in java to send free sms. It uses Open Source Library http://unirest.io/java.html  and Site2Sms API
 
 
 HOW TO USE
