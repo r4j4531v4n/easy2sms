@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package easy2sms;
 
 import java.awt.Color;
@@ -19,7 +14,6 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
-
 import javax.swing.GroupLayout;
 import javax.swing.Icon;
 import javax.swing.JOptionPane;
@@ -241,9 +235,7 @@ public class Welcome extends javax.swing.JFrame {
         }
     }//GEN-LAST:event_jTextArea1KeyReleased
 
-    private void jTextField2ActionPerformed(ActionEvent evt) {//GEN-FIRST:event_jTextField2ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField2ActionPerformed
+    
 
     private void jTextField3FocusGained(FocusEvent evt) {//GEN-FIRST:event_jTextField3FocusGained
         jTextField3.setText(null);
